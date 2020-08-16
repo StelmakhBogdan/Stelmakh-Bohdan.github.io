@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a40131f-d001-467c-a029-6415a94eef9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/model-site/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/api/image-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/footer/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/slider/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/components/slider/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/Title-cards/card-title2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/Title-cards/card1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/Title-cards/card2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/Title-cards/card3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/about/about2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/logo/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/logo/logo.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img15.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img22.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img24.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img47.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img58.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img82.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img87.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/portfolio/img90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/social-footer/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/social-footer/gmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/social-footer/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/social-footer/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/social-footer/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/social-footer/watsup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/social-footer/wetrunsfer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/social-footer/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/titlePage/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/titlePage/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/titlePage/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/titlePage/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/titlePage/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/titlePage/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/img/titlePage/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/pages/about/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/pages/about/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/pages/home/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/pages/home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/pages/portfolio/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/pages/portfolio/portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/pages/projects/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-site/src/pages/projects/projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/model-site/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-site/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/model-site/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/model-site/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-site/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/model-site" />
+  </component>
+  <component name="ProjectId" id="1g80Xmtr8F9Pv0eZRwE3D8S3U4o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\model-stite with react\model-site\src\components" />
+      <recent name="D:\model-stite with react\model-site\src\components\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a40131f-d001-467c-a029-6415a94eef9b" name="Default Changelist" comment="" />
+      <created>1597480954952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597480954952</updated>
+      <workItem from="1597480964478" duration="7941000" />
+      <workItem from="1597490043429" duration="45000" />
+      <workItem from="1597490095805" duration="520000" />
+      <workItem from="1597490746028" duration="939000" />
+      <workItem from="1597491702290" duration="6580000" />
+      <workItem from="1597499089078" duration="1918000" />
+      <workItem from="1597502040099" duration="18308000" />
+      <workItem from="1597564462828" duration="11049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
