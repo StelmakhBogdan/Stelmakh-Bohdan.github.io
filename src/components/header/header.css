@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+}
+.link {
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.6;
+    color: #808080;
+    margin: 0px 20px 0px 20px;
+}
+
+.link:hover {
+    transition-delay: 0.2s;
+    opacity: 0.8;
+    border-bottom: 2px solid #000;
+    color: #000;
+    text-decoration: none;
+}
+
+.link:focus {
+    color: #000000;
+}
+
+.jumbotron-fluid {
+    margin-top: 97px;
+    background-color: aliceblue;
+}
