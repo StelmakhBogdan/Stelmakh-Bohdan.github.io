@@ -24,7 +24,7 @@ const Home = () => (
             src={picture1}
           />
           <Card.Body>
-            <Card.Title>Developers</Card.Title>
+            <Card.Title>Shuba Magazine</Card.Title>
             <Card.Text>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
               Doloremque facilis hic laudantium nesciunt numquam qui reprehenderit sint, vero!
@@ -39,7 +39,7 @@ const Home = () => (
             src={picture2}
           />
           <Card.Body>
-            <Card.Title>Travels</Card.Title>
+            <Card.Title>Cinema</Card.Title>
             <Card.Text>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
               Doloremque facilis hic laudantium nesciunt numquam qui reprehenderit sint, vero!
@@ -54,7 +54,7 @@ const Home = () => (
             src={picture3}
           />
           <Card.Body>
-            <Card.Title>Supporting Team</Card.Title>
+            <Card.Title>All Are Welcome</Card.Title>
             <Card.Text>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
               Doloremque facilis hic laudantium nesciunt numquam qui reprehenderit sint, vero!

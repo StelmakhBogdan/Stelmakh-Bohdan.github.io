@@ -20,22 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a40131f-d001-467c-a029-6415a94eef9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/footer/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/about/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/portfolio/styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/projects/styled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/about/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/image-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/image-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about/styled.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/styled.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/portfolio/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/portfolio/portfolio.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +81,7 @@
       <workItem from="1597499089078" duration="1918000" />
       <workItem from="1597502040099" duration="18308000" />
       <workItem from="1597564462828" duration="11049000" />
-      <workItem from="1598258095987" duration="5791000" />
+      <workItem from="1598258095987" duration="10651000" />
     </task>
     <servers />
   </component>
