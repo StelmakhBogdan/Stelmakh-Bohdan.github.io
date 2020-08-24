@@ -6,13 +6,14 @@ import {
   Gallery,
   GalleryContent,
   DownloadBook,
+  DownloadParagarph,
   GalleryImg
 } from './styled';
 
 const Portfolio = () => (
   <Main>
     <DownloadBook>
-      <p>
+      <DownloadParagarph >
         Download Portfolio
         &nbsp;
         <a href="https://drive.google.com/file/d/1pEZVcNWfxOromNt-w4qV6QEquFfCToGD/view?usp=sharing"
@@ -20,7 +21,7 @@ const Portfolio = () => (
         >
           <i className="fa fa-download" aria-hidden="true"/>
         </a>
-      </p>
+      </DownloadParagarph>
     </DownloadBook>
     <Gallery>
       {ImageData.map(image => (
