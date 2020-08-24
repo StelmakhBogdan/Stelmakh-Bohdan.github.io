@@ -16,7 +16,7 @@ const Home = () => (
   <div className="jumbotron-fluid">
     <Slider/>
     <Container>
-      <h2 className="text-center m-4">Our Team</h2>
+      <h2 className="text-center m-4">My experience</h2>
       <CardDeck>
         <Card>
           <CardImg
@@ -30,7 +30,7 @@ const Home = () => (
               Doloremque facilis hic laudantium nesciunt numquam qui reprehenderit sint, vero!
               A, assumenda harum! Aut debitis dolores esse hic ipsa laboriosam sint, tempore.
             </Card.Text>
-            <Button variant="primary">About Team</Button>
+            <Button variant="outline-secondary">About Team</Button>
           </Card.Body>
         </Card>
         <Card>
@@ -45,7 +45,7 @@ const Home = () => (
               Doloremque facilis hic laudantium nesciunt numquam qui reprehenderit sint, vero!
               A, assumenda harum! Aut debitis dolores esse hic ipsa laboriosam sint, tempore.
             </Card.Text>
-            <Button variant="primary">Join to us!</Button>
+            <Button variant="outline-secondary">Join to us!</Button>
           </Card.Body>
         </Card>
         <Card>
@@ -60,7 +60,7 @@ const Home = () => (
               Doloremque facilis hic laudantium nesciunt numquam qui reprehenderit sint, vero!
               A, assumenda harum! Aut debitis dolores esse hic ipsa laboriosam sint, tempore.
             </Card.Text>
-            <Button variant="primary">About</Button>
+            <Button variant="outline-secondary">About</Button>
           </Card.Body>
         </Card>
       </CardDeck>

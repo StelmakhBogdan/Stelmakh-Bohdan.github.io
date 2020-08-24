@@ -1,6 +1,5 @@
 import React from 'react';
 import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom';
-import styled from 'styled-components';
 
 import './header.css';
 import logo from '../../img/logo/logo.jpg';
@@ -8,43 +7,51 @@ import Home from '../../pages/home';
 import Portfolio from '../../pages/portfolio';
 import Projects from '../../pages/projects';
 import About from '../../pages/about';
+import {
+  NavBarContainer,
+  NavBar,
+  LeftSideNavBar,
+  RightSideNavBar,
+  Hr
+} from './styled';
 
 const Header = () => {
+
   return (
     <Router>
-      <FixedNavBar>
+      <NavBarContainer>
         <NavBar>
           <LeftSideNavBar>
             <Link to="/" className="link">
               <i className="fa fa-home" aria-hidden="true"/>
-              Home
+              HOME
             </Link>
             <Link to="/portfolio" className="link">
               <i className="fa fa-picture-o" aria-hidden="true"/>
-              Portfolio
+              PORTFOLIO
             </Link>
           </LeftSideNavBar>
           <Link to="/">
             <img
               src={logo}
-              height="95"
-              width="180"
+              height="100"
+              width="200"
               alt="Logo"
             />
           </Link>
           <RightSideNavBar>
             <Link to="/projects" className="link">
               <i className="fa fa-shopping-bag" aria-hidden="true"/>
-              Projects
+              PROJECTS
             </Link>
             <Link to="/about" className="link">
               <i className="fa fa-id-card-o" aria-hidden="true"/>
-              About
+              ABOUT
             </Link>
           </RightSideNavBar>
         </NavBar>
         <Hr/>
-      </FixedNavBar>
+      </NavBarContainer>
 
       <Switch>
           <Route  path="/" exact component={Home} />
@@ -57,39 +64,3 @@ const Header = () => {
 };
 
 export default Header;
-
-const FixedNavBar = styled.div`
-  position: fixed;
-  top: 0;
-  width: 100%;
-  right: 0;
-  left: 0;
-  z-index: 1030;
-  background-color: white;
-`;
-
-const NavBar = styled.div`
-  font-family: 'Raleway', sans-serif;
-  display: flex;
-  justify-content: space-around;
-  margin-top: 2px;
-`;
-
-const LeftSideNavBar = styled.div`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-`;
-
-const RightSideNavBar = styled.div`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-`;
-
-const Hr = styled.hr`
-  margin: 0px;
-  height: 8px;
-  border: 0;
-  box-shadow: 0 10px 10px -10px #8c8b8b inset;
-`;
